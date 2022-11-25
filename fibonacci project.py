@@ -17,4 +17,4 @@ else:
     if f3 == N:
         print("Given number is a valid fibonacci number")
     else:
-        print("No it’s not a valid fibonacci number")
+        print("No its not a valid fibonacci number")
